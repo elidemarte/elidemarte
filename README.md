@@ -1,12 +1,12 @@
 # Hey, I'm Eli 👋
 
-CS + Data Science student at UW–Madison building things at the intersection of full-stack dev, data, and quantum computing.
+CS + Data Science student at UW–Madison building things at the intersection of full-stack dev, data, and all things interesting.
 
 ---
 
 ## 🔨 What I'm working on ...
 
-**SpinDeck** — Full-stack music platform · React, TypeScript, Node.js, Express, PostgreSQL, Spotify API  
+**SpinDeck** — Full-stack music platform ·  React, TypeScript, Supabase, Spotify Web API, Tailwind CSS
 Spotify auth, personalized listening analytics, and a tagging/annotation system with searchable notes. Building out dashboards and music visualizations.
 
 ---
